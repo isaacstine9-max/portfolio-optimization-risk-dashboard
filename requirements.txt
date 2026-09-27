@@ -1,0 +1,9 @@
+numpy
+pandas>=1.4
+matplotlib>=3.6
+seaborn
+scipy
+yfinance
+openpyxl
+jinja2
+notebook
